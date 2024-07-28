@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 40%;
+    height: 500px;
+    border: solid;
+    border-radius: 20px;
+    background-color: rgba(21, 21, 149, 0.505);
+
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+.form-control{
+    background-color: rgba(240, 248, 255, 0.452);
+}
+button{
+    margin-left: 250px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: darkorchid;
+}
